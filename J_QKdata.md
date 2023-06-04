@@ -16,5 +16,7 @@
 |tttext|gfgsfgsd
 
 ![King](img/Data1.png)
-- 卵焼き
-- とーふ
+- 卵焼き  
+- とーふ  
+- おから  
+- 味噌汁
